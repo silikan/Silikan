@@ -1,22 +1,23 @@
 
-# Silikan
+# Silikan (End Of Studies Project)
 
-Day To Day Tasks Can Be Hard To Learn And very Tedious To Do In Time ,here 
+Day To Day Tasks Can Be Hard To Learn And very Tedious To Do In Time ,here
 You Can Get everything Done Using Tech we are in need of a solution for it
 
 Silikan is a top notch marketplace that allows customers in need of quick , efficient
  and common daily services to get them easley
 
 
+
+
 `warning : This Project Was Not Tested In Any Other Envirement Just Windows`
 
 
+# PFE Files
+For More Related Files [Google Drive](https://drive.google.com/drive/folders/1q-326fT_3PdzJ4iFsBfSNGYcsTt7n76Z?usp=sharing)
 
 
 
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 ## Licence
@@ -106,7 +107,7 @@ To run this project, you will need to add the following environment variables to
 
   ```bash
    npm install
-  
+
 ```
   ```bash
    npm run serve
@@ -167,6 +168,4 @@ For support, email ren.cerbah@gmail.com
 - Still Under Development
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
