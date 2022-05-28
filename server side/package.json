@@ -1,0 +1,34 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production",
+        "chat": "nodemon chat.js",
+        "notification": "nodemon notification.js"
+    },
+    "devDependencies": {
+        "axios": "^0.25",
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14"
+    },
+    "dependencies": {
+        "@socket.io/redis-adapter": "^7.1.0",
+        "consola": "^2.15.3",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.0",
+        "express": "^4.17.3",
+        "ioredis": "^4.28.5",
+        "monitor.io": "^0.1.0",
+        "redis": "^4.0.4",
+        "redis-server": "^1.2.2",
+        "save": "^2.4.0",
+        "socket.io": "^4.4.1",
+        "socket.io-redis": "^6.1.1"
+    }
+}
